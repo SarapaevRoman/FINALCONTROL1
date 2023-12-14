@@ -4,6 +4,9 @@ string row = Console.ReadLine();
 
 string[] array = row.Split(" ");
 
+string[] result = RowFiltering(array);
+Console.WriteLine("Отфильтрованный массив из строк: ");
+Console.WriteLine($"[{string.Join(", ", result)}]");
 
 string [] RowFiltering( string [] array)
 {
@@ -20,9 +23,4 @@ string [] RowFiltering( string [] array)
     }
     return arr;
 }
-
-
-
-
-
 
