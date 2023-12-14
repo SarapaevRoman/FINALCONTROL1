@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Documents\разработчик\C#\Промежуточная аттестация\FinalControl1\bin\Debug\net6.0\FinalControl1.exe
+C:\Users\Пользователь\Documents\разработчик\C#\Промежуточная аттестация\FinalControl1\bin\Debug\net6.0\FinalControl1.deps.json
+C:\Users\Пользователь\Documents\разработчик\C#\Промежуточная аттестация\FinalControl1\bin\Debug\net6.0\FinalControl1.runtimeconfig.json
+C:\Users\Пользователь\Documents\разработчик\C#\Промежуточная аттестация\FinalControl1\bin\Debug\net6.0\FinalControl1.dll
+C:\Users\Пользователь\Documents\разработчик\C#\Промежуточная аттестация\FinalControl1\bin\Debug\net6.0\FinalControl1.pdb
+C:\Users\Пользователь\Documents\разработчик\C#\Промежуточная аттестация\FinalControl1\obj\Debug\net6.0\FinalControl1.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Documents\разработчик\C#\Промежуточная аттестация\FinalControl1\obj\Debug\net6.0\FinalControl1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Documents\разработчик\C#\Промежуточная аттестация\FinalControl1\obj\Debug\net6.0\FinalControl1.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\разработчик\C#\Промежуточная аттестация\FinalControl1\obj\Debug\net6.0\FinalControl1.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\разработчик\C#\Промежуточная аттестация\FinalControl1\obj\Debug\net6.0\FinalControl1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\разработчик\C#\Промежуточная аттестация\FinalControl1\obj\Debug\net6.0\FinalControl1.dll
+C:\Users\Пользователь\Documents\разработчик\C#\Промежуточная аттестация\FinalControl1\obj\Debug\net6.0\refint\FinalControl1.dll
+C:\Users\Пользователь\Documents\разработчик\C#\Промежуточная аттестация\FinalControl1\obj\Debug\net6.0\FinalControl1.pdb
+C:\Users\Пользователь\Documents\разработчик\C#\Промежуточная аттестация\FinalControl1\obj\Debug\net6.0\FinalControl1.genruntimeconfig.cache
+C:\Users\Пользователь\Documents\разработчик\C#\Промежуточная аттестация\FinalControl1\obj\Debug\net6.0\ref\FinalControl1.dll
