@@ -10,7 +10,7 @@ void PrintArray(string[] result)
 {
     Console.WriteLine("Отфильтрованный массив из строк: ");
     Console.Write("[");
-    for (int i = 0; i< result.Length; i++)
+    for (int i = 0; i < result.Length; i++)
     {
        Console.Write($"\"{result[i]}\"");
        if (i < result.Length - 1)
