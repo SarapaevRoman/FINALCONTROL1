@@ -2,7 +2,7 @@
 Console.WriteLine("Ведите строки через пробел:");
 string row = Console.ReadLine();
 
-string[] array = row.Split(" ");
+string[] array = row.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
 
 string[] result = RowFiltering(array);
 Console.WriteLine("Отфильтрованный массив из строк: ");
