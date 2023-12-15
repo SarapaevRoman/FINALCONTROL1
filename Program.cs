@@ -5,8 +5,23 @@ string row = Console.ReadLine();
 string[] array = row.Split(new[] { " " }, StringSplitOptions.RemoveEmptyEntries);
 
 string[] result = RowFiltering(array);
-Console.WriteLine("Отфильтрованный массив из строк: ");
-Console.WriteLine($"[{string.Join(", ",{""} result)}]");
+PrintArray(result);
+void PrintArray(string[] result)
+{
+    Console.WriteLine("Отфильтрованный массив из строк: ");
+    Console.Write("[");
+    for (int i = 0; i< result.Length; i++)
+    {
+       Console.Write($"\"{result[i]}\"");
+       if (i < result.Length - 1)
+       {
+        Console.Write(", ");
+       }
+
+    }
+    Console.Write("]");
+
+}
 
 string [] RowFiltering( string [] array)
 {
